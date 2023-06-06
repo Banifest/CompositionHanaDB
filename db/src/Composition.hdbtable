@@ -1,0 +1,5 @@
+COLUMN TABLE "Composition" (
+    "ID" INTEGER,
+    "NAME" NVARCHAR(50),
+    PRIMARY KEY ("ID")
+)
